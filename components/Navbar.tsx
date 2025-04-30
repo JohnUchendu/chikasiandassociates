@@ -23,7 +23,7 @@ const Navbar = () => {
                 className="h-12 w-auto"
               />
 
-              <h2 className="text-2xl lg:text-4xl text-blue-900 font-bold cursor-pointer ">
+              <h2 className="text-2xl lg:text-4xl text-white font-bold cursor-pointer ">
              Chikasi & Associates
               </h2>
             </Link>

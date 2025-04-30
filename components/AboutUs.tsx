@@ -8,7 +8,7 @@ const AboutUs = () => {
         {/* Card 1: Principal Partner's Picture */}
         <div className="w-full md:w-1/3">
           <Image
-            src="/our-attorneys/chikasi.jpeg" // replace with actual path to the image
+            src="/our-attorneys/chikasiphoto.webp" // replace with actual path to the image
             alt="Principal Partner"
             width={300}
             height={300}

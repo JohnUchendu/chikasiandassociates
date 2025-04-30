@@ -3,15 +3,15 @@ import SubFooter from './SubFooter';
 
 const Footer = () => {
   return (
-    <div className="bg-blue-900 text-white py-12">
+    <div className="bg-gray-900 text-white py-12">
       <div className="max-w-7xl mx-auto px-4">
       <h2 className="text-3xl font-bold mb-8">Let's work together</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Card 1: Contact Details */}
-          <div className="bg-blue-700 p-6 rounded-lg">
+          <div className="bg-blue-500 p-6 rounded-lg">
             <h3 className="text-xl font-semibold mb-4">Contact Details</h3>
             <p className="text-lg">
-              <strong>Address:</strong> Port Harcourt
+              <strong>Address:</strong> 12 Agip Road, Ada-George Road, opposite Banana for kids, Rumueme, Port Harcourt 500120, Nigeria
             </p>
             <p className="text-lg">
               <strong>Telephone:</strong> +234 815 795 7428

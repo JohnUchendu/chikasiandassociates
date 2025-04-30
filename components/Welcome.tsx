@@ -70,7 +70,7 @@ export default function Welcome() {
         <p className="text-2xl text-gray-700 font-semibold">
           Get Your Consultation
         </p>
-        <p className="text-2xl font-bold backdrop-blur-2xl bg-orange-600 border rounded-4xl p-3 text-white">
+        <p className="text-2xl font-bold backdrop-blur-2xl bg-blue-700 border rounded-4xl p-3 text-white">
         +234 815 795 7428
         </p>
         <p className="text-sm text-gray-500"></p>

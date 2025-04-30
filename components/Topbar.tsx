@@ -4,7 +4,7 @@ import { Facebook, Linkedin, Mail, Phone } from "lucide-react";
 
 const Topbar = () => {
   return (
-    <div className="bg-gray-500 text-black py-2 px-4 flex justify-between items-center md:text-sm text-xs">
+    <div className="bg-gray-500 text-white py-2 px-4 flex justify-between items-center md:text-sm text-xs">
       {/* Left Side - Social Media Icons */}
       <div className="flex gap-4">
         <a
@@ -33,7 +33,7 @@ const Topbar = () => {
         <div className="flex items-center gap-2">
           <Phone size={18} />
           <span>
-            <span className="border rounded-2xl px-1 bg-blue-500 hover:bg-yellow-200 capitalize font-bold text-gray-900">
+            <span className="border rounded-2xl px-1 bg-blue-500 hover:bg-yellow-200 capitalize font-bold text-white">
               {" "}
               call 
             </span>{" "}

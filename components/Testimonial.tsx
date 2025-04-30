@@ -15,7 +15,7 @@ const testimonials = [
   },
   {
     quote:
-      " Chikasi and Associates has consistently delivered exceptional legal services to  Industrial Training Fund. Their team's expertise, professionalism, and commitment to excellence have made them a trusted legal partner for our organizations. We are grateful for their guidance and support, and we highly recommend K. K. Ubani & Co. to anyone in need of expert legal representation.",
+      " Chikasi and Associates has consistently delivered exceptional legal services to  Industrial Training Fund. Their team's expertise, professionalism, and commitment to excellence have made them a trusted legal partner for our organizations. We are grateful for their guidance and support, and we highly recommend Chikasi and Associates to anyone in need of expert legal representation.",
 
     company: "Industrial Training Fund.",
   },

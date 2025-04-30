@@ -73,7 +73,7 @@ export default function Hero() {
                     <h2 className="text-4xl font-bold mb-4">{slide.title}</h2>
                     <p className="text-lg mb-6">{slide.description}</p>
                     <Link href={slide.link} passHref>
-                      <Button className="bg-orange-500 hover:bg-yellow-200">
+                      <Button className="bg-blue-600 hover:bg-yellow-200">
                         {slide.buttonText}
                       </Button>
                     </Link>
