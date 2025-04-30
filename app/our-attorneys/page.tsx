@@ -9,12 +9,12 @@ import Hero from "@/components/Hero";
 
 const attorneys = [
   {
-    name: "Tokunbo Otoyo",
+    name: " Chikasi",
     office: "Principal Partner",
-    image: "/our-attorneys/tokunbootoyo.jpeg",
-    bioUrl: "/our-attorneys/tokunbo-otoyo",
+    image: "/our-attorneys/chikasi.jpeg",
+    bioUrl: "/our-attorneys/chikasi",
     intro:
-      "Tokunbo Otoyo is a seasoned corporate lawyer with 5+ years of experience in litigation, business law, and regulatory compliance.",
+      "Chikasi is a seasoned corporate lawyer with 5+ years of experience in litigation, business law, and regulatory compliance.",
   },
   // {
   //   name: "Deborah N. Ikechukwu",
@@ -98,7 +98,7 @@ const OurAttorneys = () => {
         </div>
       </div>
       <Testimonials />
-      <Hero/>
+      <Hero />
     </div>
   );
 };

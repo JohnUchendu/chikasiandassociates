@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+// import type { Metadata } from "next";
 import { EB_Garamond } from "next/font/google"; // Replace with your desired font
 import "./globals.css";
 import Footer from "@/components/Footer";
@@ -24,10 +24,10 @@ const garamond = EB_Garamond({
 //   subsets: ["latin"],
 // });
 
-export const metadata: Metadata = {
-  title: "Tokunbo Otoyo & Co.",
-  description: "The Number 1 law firm in Akwa Ibom ",
-};
+// export const metadata: Metadata = {
+//   title: "Tokunbo Otoyo & Co.",
+//   description: "The Number 1 law firm in Akwa Ibom ",
+// };
 
 export default function RootLayout({
   children,

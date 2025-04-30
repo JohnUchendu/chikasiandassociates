@@ -10,34 +10,34 @@ const Navbar = () => {
 
   return (
     <div>
-      <nav className="bg-gray-50 fixed top-15 md:top-5 left-0 right-0 z-10 m-2">
+      <nav className="bg-black fixed top-15 md:top-5 left-0 right-0 z-10 m-2">
         <div className="justify-between px-4 mx-auto  lg:max-w-7xl md:items-center md:flex md:px-8">
           <div className="flex items-center justify-between py-3 md:py-5 md:block ">
             {/* LOGO */}
             <Link href="/" className="flex ">
               <Image
-                src="/our-attorneys/tokunbootoyo.jpeg"
-                alt=" Tokunbo Otoyo and Co."
+                src="/logos/logo.PNG"
+                alt=" Chikasi & Associates"
                 width={50} // Adjust the width
                 height={50} // Set the height equal to the text height
                 className="h-12 w-auto"
               />
 
               <h2 className="text-2xl lg:text-4xl text-blue-900 font-bold cursor-pointer ">
-                Tokunbo Otoyo & Co.
+             Chikasi & Associates
               </h2>
             </Link>
 
             {/* HARMBURGER BUTTON FOR MOBILE */}
             <div className="md:hidden">
               <button
-                className="p-2 text-lg text-black rounded-md outline-none focus: border-gray-400"
+                className="p-2 text-lg text-white rounded-md outline-none focus: border-gray-400"
                 onClick={() => setNavbar(!navbar)}
               >
                 {navbar ? (
-                  <X size={30} className="text-black/60" />
+                  <X size={30} className="text-white/60" />
                 ) : (
-                  <Menu size={30} className="text-black/60" />
+                  <Menu size={30} className="text-white/60" />
                 )}
               </button>
             </div>
@@ -49,27 +49,27 @@ const Navbar = () => {
               }`}
             >
               <ul className="h-screen md:h-auto items-center justify-center md:flex">
-                <li className="pb-6 text-lg text-black py-2 md:px-6 text-center border-b-2 md:border-b-0 hover:bg-purple-300 border-purple-900 md:hover:text-purple-600 md:hover:bg-transparent">
+                <li className="pb-6 text-lg text-white py-2 md:px-6 text-center border-b-2 md:border-b-0 hover:bg-purple-300 border-purple-900 md:hover:text-purple-600 md:hover:bg-transparent">
                   <Link href="/" passHref>
                     <p onClick={() => setNavbar(!navbar)}> Home</p>
                   </Link>
                 </li>
-                <li className="pb-6 text-lg text-black py-2 md:px-6 text-center border-b-2 md:border-b-0 hover:bg-purple-300 border-purple-900 md:hover:text-purple-600 md:hover:bg-transparent">
+                <li className="pb-6 text-lg text-white py-2 md:px-6 text-center border-b-2 md:border-b-0 hover:bg-purple-300 border-purple-900 md:hover:text-purple-600 md:hover:bg-transparent">
                   <Link href="/about" passHref>
                     <p onClick={() => setNavbar(!navbar)}> About Our Firm</p>
                   </Link>
                 </li>
-                <li className="pb-6 text-lg text-black py-2 md:px-6 text-center border-b-2 md:border-b-0 hover:bg-purple-300 border-purple-900 md:hover:text-purple-600 md:hover:bg-transparent">
+                <li className="pb-6 text-lg text-white py-2 md:px-6 text-center border-b-2 md:border-b-0 hover:bg-purple-300 border-purple-900 md:hover:text-purple-600 md:hover:bg-transparent">
                   <Link href="/our-attorneys" passHref>
                     <p onClick={() => setNavbar(!navbar)}>Our Attorneys</p>
                   </Link>
                 </li>
-                <li className="pb-6 text-lg text-black py-2 md:px-6 text-center border-b-2 md:border-b-0 hover:bg-purple-300 border-purple-900 md:hover:text-purple-600 md:hover:bg-transparent">
+                <li className="pb-6 text-lg text-white py-2 md:px-6 text-center border-b-2 md:border-b-0 hover:bg-purple-300 border-purple-900 md:hover:text-purple-600 md:hover:bg-transparent">
                   <Link href="/law-firm-services">
                     <p onClick={() => setNavbar(!navbar)}>Service Areas</p>
                   </Link>
                 </li>
-                <li className="pb-6 text-lg text-black py-2 md:px-6 text-center border-b-2 md:border-b-0 hover:bg-purple-300 border-purple-900 md:hover:text-purple-600 md:hover:bg-transparent">
+                <li className="pb-6 text-lg text-white py-2 md:px-6 text-center border-b-2 md:border-b-0 hover:bg-purple-300 border-purple-900 md:hover:text-purple-600 md:hover:bg-transparent">
                   <Link href="/contact">
                     <p onClick={() => setNavbar(!navbar)}>Contact today</p>
                   </Link>

@@ -14,8 +14,8 @@ export default function Welcome() {
         transition={{ duration: 0.5 }}
       >
         <Image
-          src="/our-attorneys/tokunbootoyo.jpeg"
-          alt="Tokunbo Otoyo & Co. Logo"
+          src="/logos/logo.PNG"
+          alt="Chikasi & Associates"
           width={100}
           height={150}
           className="h-12 w-auto"
@@ -29,7 +29,7 @@ export default function Welcome() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5, delay: 0.2 }}
       >
-        Welcome to Tokunbo Otoyo and Co.
+        Welcome to Chikasi & Associates
       </motion.h1>
 
       {/* Gratias Deo Chambers */}
@@ -71,7 +71,7 @@ export default function Welcome() {
           Get Your Consultation
         </p>
         <p className="text-2xl font-bold backdrop-blur-2xl bg-orange-600 border rounded-4xl p-3 text-white">
-        +234 803 689 6057
+        +234 815 795 7428
         </p>
         <p className="text-sm text-gray-500"></p>
       </motion.div>

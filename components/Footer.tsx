@@ -11,13 +11,13 @@ const Footer = () => {
           <div className="bg-blue-700 p-6 rounded-lg">
             <h3 className="text-xl font-semibold mb-4">Contact Details</h3>
             <p className="text-lg">
-              <strong>Address:</strong> 228 Oron - Ikot Abasi Rd, Oron 523119, Akwa Ibom, Nigeria
+              <strong>Address:</strong> Port Harcourt
             </p>
             <p className="text-lg">
-              <strong>Telephone:</strong> +234 803 667 4036
+              <strong>Telephone:</strong> +234 815 795 7428
             </p>
             <p className="text-lg">
-              <strong>Email:</strong> tokunbootoyoandco@yahoo.com
+              <strong>Email:</strong> info@chikasiandassociates.com.ng
             </p>
           </div>
 
@@ -34,15 +34,15 @@ const Footer = () => {
           <div className="bg-blue-700 p-6 rounded-lg">
             <h3 className="text-xl font-semibold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
-              <a href="https://www.facebook.com/tokunbootoyo/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.facebook.com/chikasiandassociates/" target="_blank" rel="noopener noreferrer">
                 <Facebook className="text-3xl hover:text-blue-600" />
               </a>
-              <a href="https://twitter.com/tokunbootoyo" target="_blank" rel="noopener noreferrer">
+              <a href="https://twitter.com/chikasiandassociates" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="text-3xl hover:text-blue-400" />
               </a>
-              <a href="https://www.instagram.com/tokunbootoyo/" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/chikasiandassociates/" target="_blank" rel="noopener noreferrer">
                 <Instagram className="text-3xl hover:text-pink-500" />
-              </a><span>Tokunbo Otoyo</span>
+              </a><span>chikasi and associates</span>
               
             </div>
           </div>
