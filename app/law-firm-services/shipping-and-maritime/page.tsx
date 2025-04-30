@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Shipping and maritime law service | K.K. Ubani & Co. ",
+  title: "Shipping and maritime law service  ",
   description:
-    "Expert shipping and maritime legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert shipping and maritime legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with ",
 };
 
 const ShippingAndMaritime = () => {
@@ -18,7 +18,7 @@ const ShippingAndMaritime = () => {
           Legal Solutions for the Maritime Industry
         </h2>
         <p className="mt-2 text-gray-600">
-          K.K. Ubani & Co. provides expert legal services for shipping,
+        Chikasi and Associates provides expert legal services for shipping,
           admiralty, and maritime transactions, ensuring compliance with
           international and Nigerian maritime laws.
         </p>

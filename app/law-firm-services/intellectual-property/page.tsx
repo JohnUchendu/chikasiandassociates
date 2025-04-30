@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Intellectual property law service | K.K. Ubani & Co. ",
+  title: "Intellectual property law service  ",
   description:
-    "Expert Intellectual property services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert Intellectual property services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with ",
 };
 
 const IntellectualProperty = () => {
@@ -18,7 +18,7 @@ const IntellectualProperty = () => {
           Protecting Your Innovations and Creative Works
         </h2>
         <p className="mt-2 text-gray-600">
-          At K.K. Ubani & Co., we help businesses and individuals secure and
+          At Chikasi and Associates, we help businesses and individuals secure and
           enforce their intellectual property rights. Our legal team specializes
           in trademarks, copyrights, patents, and trade secrets, ensuring our
           clients maintain exclusive control over their innovations and brand

@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Commercial Litigation law service | K.K. Ubani & Co. ",
+  title: "Commercial Litigation law service ",
   description:
-    "Expert Commercial litigation  legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert Commercial litigation  legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with ",
 };
 
 const CommercialLitigationLaw = () => {

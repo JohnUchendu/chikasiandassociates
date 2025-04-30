@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Real estate law service | K.K. Ubani & Co. ",
+  title: "Real estate law service ",
   description:
-    "Expert real estate legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert real estate legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with ",
 };
 
 const RealEstate = () => {
@@ -18,7 +18,7 @@ const RealEstate = () => {
           Legal Expertise in Property Transactions and Real Estate Development
         </h2>
         <p className="mt-2 text-gray-600">
-          K.K. Ubani & Co. provides legal services in real estate transactions,
+        Chikasi and Associates provides legal services in real estate transactions,
           property acquisitions, lease agreements, land use, and development
           projects. Our firm ensures that real estate dealings comply with
           Nigerian property laws while safeguarding our clients’ investments.

@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Taxation law service | K.K. Ubani & Co. ",
+  title: "Taxation law service Chikasi and Associates ",
   description:
-    "Expert taxation legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert taxation legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with ",
 };
 
 const TaxationLaw = () => {
@@ -16,7 +16,7 @@ const TaxationLaw = () => {
           Tax Compliance and Advisory Services
         </h2>
         <p className="mt-2 text-gray-600">
-          K.K. Ubani & Co. provides expert legal support in taxation, ensuring
+        Chikasi and Associates provides expert legal support in taxation, ensuring
           businesses comply with Nigerian tax laws while optimizing tax
           efficiency. We assist in tax structuring, compliance, audits, and
           dispute resolution.

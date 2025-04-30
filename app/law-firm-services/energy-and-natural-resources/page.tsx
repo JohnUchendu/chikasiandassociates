@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Commercial law service | K.K. Ubani & Co. ",
+  title: "Commercial law service ",
   description:
-    "Expert corporate legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert corporate legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with ",
 };
 
 const EnergyandNaturalResourcesLaw = () => {
@@ -19,7 +19,7 @@ const EnergyandNaturalResourcesLaw = () => {
         </h2>
         <p className="mt-2 text-gray-600">
           The energy and natural resources sector is one of the most regulated
-          industries in Nigeria. K.K. Ubani & Co. provides specialized legal
+          industries in Nigeria. Chikasi and Associates provides specialized legal
           services to oil, gas, and renewable energy companies, ensuring
           compliance and smooth project execution.
         </p>

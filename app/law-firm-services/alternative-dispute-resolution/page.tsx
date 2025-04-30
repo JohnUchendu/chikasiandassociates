@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Alternative Dispute Resolution (ADR) law service | K.K. Ubani & Co. ",
+  title: "Alternative Dispute Resolution (ADR) law service  ",
   description:
-    "Expert alternative dispute resolution (adr) legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert alternative dispute resolution (adr) legal services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with ",
 };
 
 const ADR = () => {

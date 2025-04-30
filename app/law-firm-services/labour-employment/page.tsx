@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Labour and Employment law service | K.K. Ubani & Co. ",
+  title: "Labour and Employment law service ",
   description:
-    "Expert labour and employment services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with K.K. Ubani & Co.",
+    "Expert labour and employment services in Nigeria. Navigate regulations, mergers, acquisitions, and compliance with ",
 };
 
 const LabourAndEmployment = () => {
@@ -18,7 +18,7 @@ const LabourAndEmployment = () => {
           Protecting Employers and Employees
         </h2>
         <p className="mt-2 text-gray-600">
-          K.K. Ubani & Co. provides expert legal guidance on employment rights,
+        Chikasi and Associates provides expert legal guidance on employment rights,
           workplace policies, and labor disputes, ensuring compliance with
           Nigerian labor laws.
         </p>
