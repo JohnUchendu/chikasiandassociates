@@ -11,7 +11,7 @@ const attorneys = [
   {
     name: " Chikasi",
     office: "Principal Partner",
-    image: "/our-attorneys/chikasi.jpeg",
+    image: "/our-attorneys/chikasiphoto.webp",
     bioUrl: "/our-attorneys/chikasi",
     intro:
       "Chikasi is a seasoned corporate lawyer with 5+ years of experience in litigation, business law, and regulatory compliance.",
